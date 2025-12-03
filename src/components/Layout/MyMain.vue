@@ -1,9 +1,11 @@
 <template>
- <Layout /> 
+ <div>
+  主要部分
+ </div> 
 </template>
 
 <script setup lang='ts'>
-import Layout from './components/Layout/Layout.vue'
+ 
 </script>
 
 <style scoped>

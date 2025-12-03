@@ -1,9 +1,9 @@
 <template>
- <Layout /> 
+  <div>尾部</div>
 </template>
 
 <script setup lang='ts'>
-import Layout from './components/Layout/Layout.vue'
+ 
 </script>
 
 <style scoped>

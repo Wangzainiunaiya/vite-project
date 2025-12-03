@@ -1,5 +1,5 @@
 <template>
-  <div>这是一个布局页面</div>
+ <div>头部</div> 
 </template>
 
 <script setup lang='ts'>
