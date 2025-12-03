@@ -1,7 +1,5 @@
 <template>
-  <div>
-    这是主页面
-  </div>
+  <div>这是一个布局页面</div>
 </template>
 
 <script setup lang='ts'>
